@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving the retail shopping experience.
 - 🌱 I’m currently learning distributed systems.
 - 📫 How to reach me: [@dai_s_a_n](https://twitter.com/dai_s_a_n)
