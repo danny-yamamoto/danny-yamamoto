@@ -11,6 +11,3 @@
 
 - 😊 I like this now.
    - 🍖 This is Uesutan's steak.
-<div>
-    <img src="IMG_1800.jpg" width="300px">
-</div>
