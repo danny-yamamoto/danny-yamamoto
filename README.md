@@ -9,7 +9,7 @@
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28618242" width="100px">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-yamamoto&hide=html)
 
 - 😊 I like this now.
    - 🍖 This is Uesutan's steak.
